@@ -1,0 +1,2 @@
+# Taylor_dispersion_EOF_PDF_Alltime
+This repository contains all the python code required to re-run all the simulations found in the manuscript "Taylor dispersion for coupled electroosmotic and pressure-driven flows in all time regimes". All simulation results required to re-create the figures can be downloaded from: https://drive.google.com/drive/folders/1GhwyXD5x3OmfVSWXZZGcWvlVl0t5oxcP?usp=sharing
